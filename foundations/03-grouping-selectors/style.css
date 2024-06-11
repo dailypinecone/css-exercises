@@ -1,0 +1,14 @@
+yes {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+no {
+    background-color: yellow;
+}
+
+yes,
+no {
+    
+}
